@@ -1,4 +1,4 @@
-# DinePulse-Sentiment-App
+# DinePulse-Sentiment-App(LIVE_https://dinepulse-sentiment-app-by-ratnaprava.streamlit.app/)
 AI app that predicts restaurant review sentiment using NLP + ML. Includes TF-IDF, preprocessing, model training, and a clean Streamlit UI.
 
 # 🍽️ DinePulse Sentiment App  
